@@ -8,5 +8,8 @@ The inputs of various sensors for different wafers have been provided. In electr
 
 ![image](https://user-images.githubusercontent.com/67822092/129449507-c939db3b-b696-4650-b2be-5c9d4ef9814d.png)
 
+# Demo
+
+https://github.com/ameerkings123/Wafer_Sensors_Fault/blob/main/Demo_Video/km_20210814-1_720p.mp4
 
 
