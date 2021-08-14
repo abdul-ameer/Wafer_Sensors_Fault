@@ -1,27 +1,12 @@
-# Problem Statement
+# 1.	Problem Statement:  
+The inputs of various sensors for different wafers have been provided. In electronics, a wafer (also called a slice or substrate) is a thin slice of semiconductor used for the fabrication of integrated circuits. The goal is to build a machine learning model which predicts whether a wafer needs to be replaced or not(i.e., whether it is working or not) based on the inputs from various sensors. There are two classes: +1 and -1. 
+•	+1 means that the wafer is in a working condition and it doesn’t need to be replaced.
+•	-1 means that the wafer is faulty and it needs to be replaced. 
 
-To build a regression model to predict the visibility distance based on the given different climatic indicators in the training data. 
 
 # Architecture
 
 ![image](https://user-images.githubusercontent.com/67822092/129449507-c939db3b-b696-4650-b2be-5c9d4ef9814d.png)
 
-# Data Description
-
-Data Description
-Data Description: This dataset predicts the visibility distance based on the different indicators as below:
-
-1.	VISIBILITY - Distance from which an object can be seen.
-2.	DRYBULBTEMPF-Dry bulb temperature (degrees Fahrenheit). Most commonly reported standard temperature.
-3.	WETBULBTEMPF-Wet bulb temperature (degrees Fahrenheit).
-4.	DewPointTempF-Dew point temperature (degrees Fahrenheit).
-5.	RelativeHumidity-Relative humidity (percent).
-6.	WindSpeed-Wind speed (miles per hour).
-7.	WindDirection-Wind direction from true north using compass directions.
-8.	StationPressure-Atmospheric pressure (inches of Mercury; or ‘in Hg’).
-9.	SeaLevelPressure- Sea level pressure (in Hg).
-10.	Precip	Total-precipitation in the past hour (in inches).
-Apart from training files, we also require a "schema" file from the client, which contains all the relevant information about the training files such as:
-Name of the files, Length of Date value in FileName, Length of Time value in FileName, Number of Columns, Name of the Columns, and their datatype.
 
 
