@@ -10,6 +10,6 @@ The inputs of various sensors for different wafers have been provided. In electr
 
 # Demo
 
-https://github.com/ameerkings123/Wafer_Sensors_Fault/blob/main/Demo_Video/km_20210814-1_720p.mp4
+![video](https://github.com/ameerkings123/Wafer_Sensors_Fault/blob/main/Demo_Video/km_20210814-1_720p.mp4)
 
 
