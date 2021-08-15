@@ -13,3 +13,9 @@ The inputs of various sensors for different wafers have been provided. In electr
 ![Video](https://github.com/ameerkings123/Wafer_Sensors_Fault/blob/main/Demo_Video/GIF-210814_213002.gif)
 
 
+
+https://user-images.githubusercontent.com/67822092/129467823-ddb3d7a4-3c21-4867-80b5-3d32a61e5dc8.mp4
+
+
+
+
