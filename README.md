@@ -18,8 +18,8 @@
 - Download the file and Place it into **" Training_Batch_Files/ ".** folder.
 
 ## :desktop_computer:	Installation Setup
-1.Clone or download the repo.
-2.Open command prompt in the downloaded folder.
+1.Clone or download the repo.<br>
+2.Open command prompt in the downloaded folder.<br>
 3.Create a virtual environment
 
 ```bash
