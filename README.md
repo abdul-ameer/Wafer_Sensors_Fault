@@ -10,10 +10,6 @@ The pipeline of a project below image
 ![image](https://user-images.githubusercontent.com/67822092/129449507-c939db3b-b696-4650-b2be-5c9d4ef9814d.png)
 
 # Demo
-
-- This repository represents **" Wafer Fault in Sensors "**.
-- With the help of this project we can detect the Wafer Fault on  **Different Sensors**.
-- "-1" represents Good "1" represents Bad Wafer check below image
  
 ![Screenshot_20210816_152230_2](https://user-images.githubusercontent.com/67822092/129545886-131db174-953a-48d8-9881-c718b94d0c96.jpg)
 
