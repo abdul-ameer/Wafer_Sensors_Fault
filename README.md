@@ -1,6 +1,6 @@
 # Architecture
 
-The pipline of a project below image
+The pipeline of a project below image
 
 ![image](https://user-images.githubusercontent.com/67822092/129449507-c939db3b-b696-4650-b2be-5c9d4ef9814d.png)
 
